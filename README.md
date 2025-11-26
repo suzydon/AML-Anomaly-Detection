@@ -54,6 +54,9 @@ Synthetic dataset of 10,000 transactions with realistic patterns:
 - Automated risk scoring from 0 to 1
 - High-risk threshold at 0.7 probability
 - Tiered alerting system: Low, Medium, High, Critical
+  ![](images/aml_feature_importance.png)
+![](images/aml_confusion_matrix.png)
+![](images/aml_roc_curve.png)
 
 ## Technical Stack
 
